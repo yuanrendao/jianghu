@@ -4,6 +4,6 @@ c踩踩踩踩踩踩
 
 ddddd
 
-![](images/git.jpg)
+![](https://github.com/yuanrendao/jianghu/blob/master/Images/git.jpg)
 
 xxxx
